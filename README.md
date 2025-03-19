@@ -74,6 +74,6 @@ Installation : You can install the required libraries using pip
 ## **Author**
 - Mohammed Suhail
 - mohammedsuhails2004@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/mohammed-suhail-273492281)
+- [LinkedIn](https://www.linkedin.com/in/mohammed-suhail-s-273492281)
 - [GitHub](https://github.com/Suhail786444)
 
